@@ -1,1 +1,3 @@
 # Chromatoglyphics
+
+Generative arts + photography
